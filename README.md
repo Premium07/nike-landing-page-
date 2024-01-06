@@ -1,5 +1,5 @@
 # nike-landing-page-
-This repo is Nike's Landing Page made with HTML5, CSS3
+This repo is Nike's Landing Page made with HTML5, CSS3 and also responsive design.
 
 PREVIEW LINK:
 https://premium07.github.io/nike-landing-page-/

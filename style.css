@@ -48,7 +48,7 @@ main {
 
 .navbar a {
   text-decoration: none;
-  color: #000;
+  color: #2f2e2e;
   text-transform: uppercase;
 }
 
@@ -65,7 +65,7 @@ main {
   height: 3.5px;
   left: 0;
   bottom: 0;
-  background-color: #000;
+  background-color: #414141;
   transition: width 0.2s linear;
   border-radius: 100px;
 }
